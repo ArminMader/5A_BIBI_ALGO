@@ -4,7 +4,7 @@ Github-Link-Übersicht
 ----------------------
 * [Christler Johannes](https://github.com/autjojo) <br/>
 * [Cisse Yacouba](https://github.com/autyaci) <br/>
-* f [Cosar Tolga]() <br/>
+* [Cosar Tolga](https://github.com/aglot/BIBI-ALGO_Hausuebungen.git) <br/>
 * f [Draxler Simon]() <br/>
 * f [Fiegl Marcel]() <br/>
 * f [Foro Patrik]() <br/>
@@ -16,7 +16,7 @@ Github-Link-Übersicht
 * f [Langer Florian]() <br/>
 * f [Lechner Celine]() <br/>
 * [Mader Armin](https://github.com/ArminMader/5A_BIBI_ALGO.git) <br/>
-* f [Mader Philip]() <br/>
+* [Mader Philip](https://github.com/philipmaderistsuper) <br/>
 * f [Orucoglu Tunahan]() <br/>
 * f [Rafelsberger Noah]() <br/>
 * [Sparber Daniel](https://gitlab.com/dsparber/5A_BIBI_ALGO.git) <br/>
