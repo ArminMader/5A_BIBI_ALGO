@@ -22,7 +22,7 @@ Github-Link-Übersicht
 * [Sparber Daniel](https://gitlab.com/dsparber/5A_BIBI_ALGO.git) <br/>
 * f [Stocker Mario]() <br/>
 * f [Wehinger Chiara]() <br/>
-----------------------
+<br/>
 f...Link fehlt noch
 
 
