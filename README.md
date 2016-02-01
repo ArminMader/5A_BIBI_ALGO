@@ -14,7 +14,7 @@ Github-Link-Übersicht
 * f [Kanetscheider Manuel]() <br/>
 * [Krivdic Matthias](https://github.com/krivdlmath/Algo.git) <br/>
 * f [Langer Florian]() <br/>
-* f [Lechner Celine]() <br/>
+* [Lechner Celine](https://github.com/CelineLechner/5A_BIBI_ALGO.git) <br/>
 * [Mader Armin](https://github.com/ArminMader/5A_BIBI_ALGO.git) <br/>
 * [Mader Philip](https://github.com/philipmaderistsuper) <br/>
 * f [Orucoglu Tunahan]() <br/>
