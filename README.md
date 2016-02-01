@@ -12,7 +12,7 @@ Github-Link-Übersicht
 * f [Hackstock Benjamin]() <br/>
 * f [Indra Robin]() <br/>
 * f [Kanetscheider Manuel]() <br/>
-* f [Krivdic Matthias]() <br/>
+* [Krivdic Matthias](https://github.com/krivdlmath/Algo.git) <br/>
 * f [Langer Florian]() <br/>
 * f [Lechner Celine]() <br/>
 * [Mader Armin](https://github.com/ArminMader/5A_BIBI_ALGO.git) <br/>
