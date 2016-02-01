@@ -6,12 +6,12 @@ Github-Link-Übersicht
 * [Cisse Yacouba](https://github.com/autyaci) <br/>
 * [Cosar Tolga](https://github.com/aglot/BIBI-ALGO_Hausuebungen.git) <br/>
 * f [Draxler Simon]() <br/>
-* f [Fiegl Marcel]() <br/>
+* [Fiegl Marcel](https://bitbucket.org/Dalilon/fiegl-hw5a-xml-abgabe.git) <br/>
 * f [Foro Patrik]() <br/>
 * f [Gögele Carina]() <br/>
 * f [Hackstock Benjamin]() <br/>
 * [Indra Robin](https://github.com/robinindra/BIBI-ALGO.git) <br/>
-* f [Kanetscheider Manuel]() <br/>
+* [Kanetscheider Manuel](https://bitbucket.org/manukanne96/bibi-5ahwi-xml-kanetscheider.git) <br/>
 * [Krivdic Matthias](https://github.com/krivdlmath/Algo.git) <br/>
 * f [Langer Florian]() <br/>
 * [Lechner Celine](https://github.com/CelineLechner/5A_BIBI_ALGO.git) <br/>
