@@ -5,7 +5,7 @@ Github-Link-Übersicht
 * [Christler Johannes](https://github.com/autjojo) <br/>
 * [Cisse Yacouba](https://github.com/autyaci) <br/>
 * [Cosar Tolga](https://github.com/aglot/BIBI-ALGO_Hausuebungen.git) <br/>
-* f [Draxler Simon]() <br/>
+* [Draxler Simon](https://github.com/SimonDraxler/BIBI_ALGO.git) <br/>
 * [Fiegl Marcel](https://bitbucket.org/Dalilon/fiegl-hw5a-xml-abgabe.git) <br/>
 * f [Foro Patrik]() <br/>
 * f [Gögele Carina]() <br/>
@@ -20,7 +20,7 @@ Github-Link-Übersicht
 * f [Orucoglu Tunahan]() <br/>
 * f [Rafelsberger Noah]() <br/>
 * [Sparber Daniel](https://gitlab.com/dsparber/5A_BIBI_ALGO.git) <br/>
-* f [Stocker Mario]() <br/>
+* [Stocker Mario](https://github.com/mariostocker/BIBI_ALGO.git) <br/>
 * f [Wehinger Chiara]() <br/>
 <br/>
 f...Link fehlt noch
