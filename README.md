@@ -7,7 +7,7 @@ Github-Link-Übersicht
 * [Cosar Tolga](https://github.com/aglot/BIBI-ALGO_Hausuebungen.git) <br/>
 * [Draxler Simon](https://github.com/SimonDraxler/BIBI_ALGO.git) <br/>
 * [Fiegl Marcel](https://bitbucket.org/Dalilon/fiegl-hw5a-xml-abgabe.git) <br/>
-* f [Foro Patrik]() <br/>
+* [Foro Patrik](https://github.com/patrikforo/BIBI_ALGO_5AHWII_ForoPatrik.git) <br/>
 * f [Gögele Carina]() <br/>
 * [Hackstock Benjamin](https://gitlab.com/bhackstock/koelloe.git) <br/>
 * [Indra Robin](https://github.com/robinindra/BIBI-ALGO.git) <br/>
