@@ -1,6 +1,6 @@
 5A_BIBI_ALGO
 =====================
-Github-Link-Übersicht
+Github-Link-Ãœbersicht
 ----------------------
 * [Christler Johannes](https://github.com/autjojo) <br/>
 * [Cisse Yacouba](https://github.com/autyaci) <br/>
@@ -8,12 +8,12 @@ Github-Link-Übersicht
 * [Draxler Simon](https://github.com/SimonDraxler/BIBI_ALGO.git) <br/>
 * [Fiegl Marcel](https://bitbucket.org/Dalilon/fiegl-hw5a-xml-abgabe.git) <br/>
 * [Foro Patrik](https://github.com/patrikforo/BIBI_ALGO_5AHWII_ForoPatrik.git) <br/>
-* f [Gögele Carina]() <br/>
+* f [GÃ¶gele Carina]() <br/>
 * [Hackstock Benjamin](https://gitlab.com/bhackstock/koelloe.git) <br/>
 * [Indra Robin](https://github.com/robinindra/BIBI-ALGO.git) <br/>
 * [Kanetscheider Manuel](https://bitbucket.org/manukanne96/bibi-5ahwi-xml-kanetscheider.git) <br/>
 * [Krivdic Matthias](https://github.com/krivdlmath/Algo.git) <br/>
-* f [Langer Florian]() <br/>
+* [Langer Florian](https://gitlab.com/flanger/BIBI-XML/tree/master/src/ALGO) <br/>
 * [Lechner Celine](https://github.com/CelineLechner/5A_BIBI_ALGO.git) <br/>
 * [Mader Armin](https://github.com/ArminMader/5A_BIBI_ALGO.git) <br/>
 * [Mader Philip](https://github.com/philipmaderistsuper) <br/>
