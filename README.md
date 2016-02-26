@@ -16,8 +16,8 @@ Github-Link-Übersicht
 * [Langer Florian](https://gitlab.com/flanger/BIBI-XML/tree/master/src/ALGO) <br/>
 * [Lechner Celine](https://github.com/CelineLechner/5A_BIBI_ALGO.git) <br/>
 * [Mader Armin](https://github.com/ArminMader/5A_BIBI_ALGO.git) <br/>
-* [Mader Philip](https://github.com/philipmaderistsuper) <br/>
-* f [Orucoglu Tunahan]() <br/>
+* [Mader Philip](https://github.com/philipmaderistsuper.git) <br/>
+* [Orucoglu Tunahan](https://github.com/Tunahano/BIBI_ALGO_TUNAHAN.git) <br/>
 * f [Rafelsberger Noah]() <br/>
 * [Sparber Daniel](https://gitlab.com/dsparber/5A_BIBI_ALGO.git) <br/>
 * [Stocker Mario](https://github.com/mariostocker/BIBI_ALGO.git) <br/>
